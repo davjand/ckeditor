@@ -3,7 +3,7 @@ ck_configurationData.language = 'en';
 ck_configurationData.skin = 'chris';
 ck_configurationData.replaceByClassEnabled = false;
 ck_configurationData.forcePasteAsPlainText = true;
-ck_configurationData.format_tags = 'p;h1;h2;h3';
+ck_configurationData.format_tags = 'p;h1;h2;h3;h4';
 ck_configurationData.entities_processNumerical = 'force';
 ck_configurationData.filebrowserBrowseUrl = Symphony.Context.get('root') + '/symphony/extension/ckeditor/filebrowser/';
 
